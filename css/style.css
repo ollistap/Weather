@@ -1,0 +1,38 @@
+.container{
+    margin: 0% 5% 0% 5%;
+    background: #d1f4fc;
+    height: 600px;
+}
+.weather{
+    text-align: center;
+}
+.left{
+    text-align: center;
+}
+
+.left form{
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 1%;
+}
+
+.left input{
+    width: 100%;
+    height: 25px;
+}
+.left input:focus{
+    color: #000000;
+    border: 1px solid #000000
+}
+li {
+    list-style-type: none;
+}
+ul {
+    text-align: left;
+}
+.right{
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 3%;
+    background: #a6bbfc;
+}
